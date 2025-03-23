@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ankit1369
 - 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ...python
+- 🌱 I’m currently learning ...python and C
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... ankit697711@gmail.com
 - 😄 Pronouns: ...
